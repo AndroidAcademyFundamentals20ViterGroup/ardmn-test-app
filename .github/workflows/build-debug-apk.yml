@@ -19,7 +19,7 @@ jobs:
       - name: Build debug APK
         run: bash ./gradlew assembleDebug --stacktrace
       - name: Create APK artifact
-      - uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v2
         with:
           name: app
           path: app/build/outputs/apk/debug/app-debug.apk
