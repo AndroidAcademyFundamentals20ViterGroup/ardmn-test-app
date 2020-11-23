@@ -112,4 +112,9 @@
         android:text="Default text font."
         android:textSize="20sp" />
 
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
 </LinearLayout>
