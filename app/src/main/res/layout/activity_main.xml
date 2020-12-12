@@ -153,6 +153,11 @@
             android:progressDrawable="@drawable/my_rating_bar_drawable"
             android:rating="2" />
 
+        <com.viter.artem.aa_2020_viter_group_test_app.my_textview.MyTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MyTextView\nMyTextView\n03nyWtfp\nw\nq\ni\nI\nQ\nh\nj\n\n\ng\no\nR\nP\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\n\t\nT"
+            android:textSize="60sp"
+            android:textStyle="bold" />
     </LinearLayout>
-
 </ScrollView>
