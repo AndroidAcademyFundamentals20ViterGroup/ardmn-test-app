@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="rating_star_focusable_or_touched">@color/yellow</color>
+    <color name="rating_star_selected">@color/red</color>
+    <color name="rating_star_not_selected_not_focusable_or_touched">@color/orange</color>
+
+</resources>
